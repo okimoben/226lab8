@@ -1,0 +1,14 @@
+Book -> UID: B001, Title: Deep Learning, Year: 2018, Author: Ian Goodfellow, Pages: 775
+Book -> UID: B002, Title: Python Crash Course, Year: 2020, Author: Eric Matthes, Pages: 544
+Article -> UID: A001, Title: Quantum Computing, Year: 2022, Journal: Nature, DOI: 10.1234/qc567
+Article -> UID: A002, Title: AI Ethics, Year: 2019, Journal: IEEE, DOI: 10.5678/ai999
+Podcast -> UID: P001, Title: TechTalk AI, Year: 2023, Host: Jane Doe, Duration: 45 mins
+Podcast -> UID: P002, Title: History Hour, Year: 2017, Host: John Smith, Duration: 60 mins
+
+Recent Items (last 5 years):
+Book -> UID: B002, Title: Python Crash Course, Year: 2020, Author: Eric Matthes, Pages: 544
+Article -> UID: A001, Title: Quantum Computing, Year: 2022, Journal: Nature, DOI: 10.1234/qc567
+Podcast -> UID: P001, Title: TechTalk AI, Year: 2023, Host: Jane Doe, Duration: 45 mins
+
+Articles with DOI starting with '10.1234':
+Article -> UID: A001, Title: Quantum Computing, Year: 2022, Journal: Nature, DOI: 10.1234/qc567
